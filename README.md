@@ -17,9 +17,5 @@ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE 
 OR OTHER DEALINGS IN THE SOFTWARE.
 
-import * as npm from "https://cdn.skypack.dev/npm";
-import * as npm from "https://cdn.skypack.dev/npm";
-<!-- Use preprocessors via the lang attribute! e.g. <template lang="pug"> -->
-<template>
-  <div id="app">
+
     <h1>{{Firsgits}}</h1>
