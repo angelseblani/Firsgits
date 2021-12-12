@@ -1,5 +1,5 @@
 # Firsgits
-Copyright (c) 2021 by Angel Siblani (https://codepen.io/angelsiblani/pen/eYWWBEe)
+Copyright (c) 2021 by Angel Siblani 
 This is a live code editor configured for Vue!
 You're on CodePen, a social development environment designed to do just this! Learn more about CodePen.
 
